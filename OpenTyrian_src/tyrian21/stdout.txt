@@ -1,0 +1,22 @@
+
+Welcome to... >> OpenTyrian Classic (unknown revision) <<
+
+Copyright (C) 2007-2009 The OpenTyrian Development Team
+
+This program comes with ABSOLUTELY NO WARRANTY.
+This is free software, and you are welcome to redistribute it
+under certain conditions.  See the file GPL.txt for details.
+
+
+Invalid or missing TYRIAN.CFG! Continuing using defaults.
+
+initialized SDL video: 640x400x32
+no joysticks detected
+assuming mouse detected
+initializing SDL audio...
+	requested 44100 Hz, 1 channels, 512 samples
+	obtained  44100 Hz, 1 channels, 512 samples
+loaded demo 'demo.1'
+TODO: fade_song
+TODO: fade_song
+TODO: fade_song

@@ -1,0 +1,3 @@
+error: failed to open 'palette.dat': No such file or directory
+error: One or more of the required Tyrian 2.1 data files could not be found.
+       Please read the README file.
